@@ -1,7 +1,5 @@
 body {
-    background-color: rgb(255, 253, 253);
-    margin-top: 56px;
-    background-image: url('bhn/bg.jpg');
+    background-image: url('../bhn/bg.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
